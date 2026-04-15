@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Vikas Yadav",
+        "email": "vy578606@gmail.com",
+        "password": "12345",
+        "fileUrl": "https://res.cloudinary.com/draoyfcay/image/upload/v1776248185/x0igdgyrqgwrrah4w0dp.jpg"
+    },
+    {
+        "name": "Ramesh",
+        "email": "ramesh@gmail.com",
+        "password": "23456",
+        "fileUrl": "https://res.cloudinary.com/draoyfcay/image/upload/v1776248822/jo9c5fibnifcb9apxysf.jpg"
+    }
+]

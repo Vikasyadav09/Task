@@ -1,0 +1,21 @@
+2026-04-15 11:59:38 - Server error in signup - 'str' object has no attribute 'get'
+2026-04-15 12:42:17 - Server error in signup - 'str' object has no attribute 'get'
+2026-04-15 12:42:58 - Server error in signup - 'str' object has no attribute 'get'
+2026-04-15 12:43:45 - Server error in signup - 'str' object has no attribute 'get'
+2026-04-15 12:50:02 - Server error in signup - string indices must be integers, not 'str'
+2026-04-15 12:53:42 - Server error in signup - string indices must be integers, not 'str'
+2026-04-15 13:02:44 - Server error in signup - string indices must be integers, not 'str'
+2026-04-15 13:30:05 - Server error in signup - string indices must be integers, not 'str'
+2026-04-15 13:30:10 - Server error in signup - string indices must be integers, not 'str'
+2026-04-15 13:30:47 - Server error in signup - string indices must be integers, not 'str'
+2026-04-15 13:42:01 - Signup success - vy578606@gmail.com
+2026-04-15 15:37:32 - Signup failed - user already exists: vy578606@gmail.com
+2026-04-15 15:37:32 - HTTPException - User already exists
+2026-04-15 15:40:25 - Signup failed - user already exists: vy578606@gmail.com
+2026-04-15 15:40:25 - HTTPException - User already exists
+2026-04-15 15:41:14 - Signup failed - user already exists: vy578606@gmail.com
+2026-04-15 15:41:14 - HTTPException - User already exists
+2026-04-15 15:46:25 - Signup success - vy578606@gmail.com
+2026-04-15 15:46:44 - Signup failed - user already exists: vy578606@gmail.com
+2026-04-15 15:46:44 - HTTPException - User already exists
+2026-04-15 15:57:05 - Signup success - ramesh@gmail.com
